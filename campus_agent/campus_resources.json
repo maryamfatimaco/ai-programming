@@ -1,0 +1,124 @@
+{
+  "resources": [
+    {
+      "name": "Hultquist Library",
+      "aliases": ["library", "lib", "hultquist"],
+      "location": "Hultquist Library (HULT), 260 Curtis Street, Jamestown, NY",
+      "hours": "Vary by day and semester. Check the library website for current hours.",
+      "phone": "716-338-1008",
+      "email": "Not confirmed",
+      "website": "https://www.sunyjcc.edu/support/learning-commons/library",
+      "description": "Campus library providing research materials, study spaces, and learning resources.",
+      "verified_by": "Zaid Abdulrahim",
+      "last_verified": "2026-10-09"
+    },
+    {
+      "name": "Learning Center",
+      "aliases": ["tutoring", "tutoring center", "tutors", "learning commons"],
+      "location": "Jamestown Campus: HULT Floor 1, Learning Commons. Cattaraugus County Campus: LLAC Floor 1, Learning Commons",
+      "hours": "Contact office for hours",
+      "phone": "716.338.1008 (Jamestown), 716.376.7517 (Cattaraugus County)",
+      "email": "Not listed",
+      "website": "https://www.sunyjcc.edu/support/learning-commons/learning-center",
+      "description": "Provides academic tutoring and learning support for students.",
+      "verified_by": "Jerrica Sosa",
+      "last_verified": "2026-10-01"
+    },
+    {
+      "name": "Success Center",
+      "aliases": ["advising", "counseling", "academic advising", "advisors"],
+      "location": "Jamestown Campus: COCE Floor 1. Cattaraugus County Campus: COLL Floor 1",
+      "hours": "Contact office for hours",
+      "phone": "716.338.1065 (Jamestown/Online), 716.376.7508 (Cattaraugus County)",
+      "email": "successcenter@mail.sunyjcc.edu",
+      "website": "https://sunyjcc.edu/support/counseling/staf",
+      "description": "Offers academic advising, course registration help, and counseling services.",
+      "verified_by": "Jerrica Sosa",
+      "last_verified": "2026-10-01"
+    },
+    {
+      "name": "Financial Aid Office",
+      "aliases": ["financial aid", "finaid", "scholarships", "billing"],
+      "location": "Jamestown Campus: COCE Floor 1. Cattaraugus County Campus: COLL Floor 1",
+      "hours": "Contact office for hours",
+      "phone": "716.338.1009",
+      "email": "FinancialAid@sunyjcc.edu",
+      "website": "https://www.sunyjcc.edu/support/financial-aid-billing/scholarships",
+      "description": "Assists students with financial aid, scholarships, and billing questions.",
+      "verified_by": "Maryam Fatima",
+      "last_verified": "2026-09-30"
+    },
+    {
+      "name": "Career Center",
+      "aliases": ["careers", "jobs", "career services", "internships"],
+      "location": "Jamestown Campus and Cattaraugus County Campus (Olean)",
+      "hours": "Contact office for appointment hours",
+      "phone": "716.338.1061",
+      "email": "Not listed",
+      "website": "https://www.sunyjcc.edu/support/career-services/interest",
+      "description": "Helps students with career exploration, resumes, and job placement.",
+      "verified_by": "Maryam Fatima",
+      "last_verified": "2026-09-30"
+    },
+    {
+      "name": "Student Food Pantry",
+      "aliases": ["food pantry", "food", "pantry"],
+      "location": "Jamestown Campus, next to the Campus Bookstore, Hamilton Collegiate Center, first floor; Cattaraugus County Campus, Success Center across from the bookstore, College Center, first floor",
+      "hours": "None listed",
+      "phone": "Jamestown Campus - 716.338.1004; Cattaraugus County Campus - 716.376.7508",
+      "email": "None listed",
+      "website": "https://www.sunyjcc.edu/support/get-help/food-pantry",
+      "description": "Provides food assistance to students facing food insecurity.",
+      "verified_by": "Jerrica Sosa",
+      "last_verified": "2026-09-22"
+    },
+    {
+      "name": "JCC IT Help Desk",
+      "aliases": ["it", "help desk", "tech support", "computer help"],
+      "location": "Jamestown Community College; physical walk-in location not confirmed",
+      "hours": "Monday–Friday, 8:30 AM–4:30 PM",
+      "phone": "716-338-1122",
+      "email": "JCCHelpDesk@sunyjcc.edu",
+      "website": "https://www.sunyjcc.edu/support/technology/myjcc",
+      "description": "Provides technical support for student accounts, campus Wi-Fi, and computer issues.",
+      "verified_by": "Zaid Abdulrahim",
+      "last_verified": "2026-10-09"
+    },
+    {
+      "name": "Campus Bookstore",
+      "aliases": ["bookstore", "books", "store"],
+      "location": "JCC Campus Store. 525 Falconer Street. Jamestown. NY 14701",
+      "hours": "Mon-Thu: 9:00 AM - 4:30 PM. Fri: 9:00 AM - 2:00 PM. Sat-Sun: Closed",
+      "phone": "(877) 420-1734",
+      "email": "sm8369@bncollege.com",
+      "website": "https://sunyjcc.bncollege.com/",
+      "description": "Sells textbooks, course materials, and campus merchandise.",
+      "verified_by": "Maryam Fatima",
+      "last_verified": "2026-09-30"
+    },
+    {
+      "name": "Campus Safety",
+      "aliases": ["security", "safety", "police"],
+      "location": "Jamestown Campus (Hamilton Collegiate Center)",
+      "hours": "Contact office or campus safety cell for active hours",
+      "phone": "716.338.1015",
+      "email": "Not listed",
+      "website": "https://cm.maxient.com/reportingform.php?SUNYJamestownCC&layout_id=5",
+      "description": "Provides security, emergency response, and safety escorts for the campus.",
+      "verified_by": "Maryam Fatima",
+      "last_verified": "2026-09-30"
+    },
+    {
+      "name": "Health Center",
+      "aliases": ["health", "nurse", "medical", "clinic"],
+      "location": "Jamestown Campus | COCE 122; Cattaraugus County Campus | COLL 139",
+      "hours": "None Listed",
+      "phone": "716.338.1013 - Charlene Johnson (General); 716.338.1014 - Shelly Wells, RN (Nurse)",
+      "email": "HealthCenter@sunyjcc.edu",
+      "website": "https://www.sunyjcc.edu/support/health-center",
+      "description": "Offers basic medical care, health assessments, and wellness resources.",
+      "verified_by": "Jerrica Sosa",
+      "last_verified": "2026-09-22"
+    }
+  ]
+}
