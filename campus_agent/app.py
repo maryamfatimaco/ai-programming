@@ -4,7 +4,7 @@ app.py - Final version for Lab 3
 Complete Streamlit chat interface with ADK agent integration.
 This file connects to the Campus Resource Assistant agent from Lab 2.
 
-Author: [Student Name]
+Author: [Maryam Fatima]
 Course: AI Programming
 """
 
@@ -17,6 +17,7 @@ from google.adk.runners import Runner
 from google.adk.sessions import InMemorySessionService
 from google.adk.artifacts import InMemoryArtifactService
 from google.genai import types
+from concurrent.futures import ThreadPoolExecutor
 
 # Import our agent from Lab 2
 from agent import root_agent, RESOURCE_FILE
@@ -189,7 +190,8 @@ if prompt := st.chat_input("Ask about campus resources..."):
     # Get agent response with loading indicator
     with st.chat_message("assistant"):
         with st.spinner("Thinking..."):
-            response = asyncio.run(call_agent(prompt))
+            with ThreadPoolExecutor(1) as pool:
+             response = pool.submit(lambda: asyncio.run(call_agent(prompt))).result()
             st.markdown(response)
     
     # Store assistant response
