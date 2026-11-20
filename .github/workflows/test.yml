@@ -21,6 +21,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install pytest
+          pip install -r campus_agent/requirements.txt
           
       - name: Run the tests using pytest
         run: |
