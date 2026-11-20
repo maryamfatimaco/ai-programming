@@ -1,4 +1,7 @@
 """
+
+# Version 1.1 - added auto-redeploy
+
 app.py - Final version for Lab 3
 
 Complete Streamlit chat interface with ADK agent integration.
